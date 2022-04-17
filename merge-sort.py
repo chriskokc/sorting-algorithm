@@ -34,12 +34,3 @@ def merge_sort(arr):
             arr[i] = r_sub_arr[r_head]
             r_head += 1
             i += 1
-
-
-
-
-
-
-
-
-
